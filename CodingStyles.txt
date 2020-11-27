@@ -1,0 +1,6 @@
+- Variables and local labels are camelCase
+- Routines and (simulated) namespaces are PascalCase
+- _ is used as namespace delimiter
+- Private members start with an _
+
+- Uses intuitive but less optimized code outside critical loops
